@@ -1,0 +1,10 @@
+.myimage{
+    width: 300px;
+    height: 500px;
+}
+.firstdiv{
+    border: 5px;color:black;
+    border-radius: 20px;
+    background-color: blue;width: fit-content;
+    
+}
